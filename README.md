@@ -1,0 +1,2 @@
+# fastclass
+html5
